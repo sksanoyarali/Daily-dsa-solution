@@ -39,7 +39,7 @@ class Solution {
                         vis[i][j]=0;
                     }
                 }
-            }
+            }s
         }
         return false;
     }
