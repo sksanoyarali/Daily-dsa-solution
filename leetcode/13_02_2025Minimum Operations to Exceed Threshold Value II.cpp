@@ -11,7 +11,7 @@ class Solution {
             while(!pq.empty()){
                 if(pq.top()>=k){
                     break;
-                }
+                }x
                 else{
                     long long x=pq.top();
                     pq.pop();
